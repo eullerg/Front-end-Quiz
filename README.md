@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/eullerg/Front-end-Development-Quiz)
-  ![GitHub stars](https://img.shields.io/github/stars/eullerg/Front-end-Development-Quiz)
-  ![GitHub forks](https://img.shields.io/github/forks/eullerg/Front-end-Development-Quiz)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/eullerg/Front-end-Quiz)
+  ![GitHub stars](https://img.shields.io/github/stars/eullerg/Front-end-Quiz)
+  ![GitHub forks](https://img.shields.io/github/forks/eullerg/Front-end-Quiz)
   [![Twitter Follow](https://img.shields.io/twitter/follow/eullerstm)](https://twitter.com/intent/eullerstm)
  
   <br />
