@@ -39,7 +39,7 @@ E-mail:euller_germano1@hotmail.com
 
 
 
-### Autor
+### Author
 
  [<img src="https://avatars.githubusercontent.com/u/28613413?v=4" width=115><br><sub>Euler Germano</sub>](https://github.com/eullerg) 
 
