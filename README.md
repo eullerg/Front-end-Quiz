@@ -29,7 +29,7 @@ You can <strong> access the source code of the initial project </strong> or <str
 
 ### 🛠️ Open & Run Quiz
 
-To run the **Quiz** just open the link **link** or download the repository and open the file <strong> index.html </strong>
+To run the **Quiz** just open the link **https://front-end-quiz-six.vercel.app/** or download the repository and open the file <strong> index.html </strong>
 
 
 ### Contact
