@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/eullerg/Front-end-Quiz)
   ![GitHub stars](https://img.shields.io/github/stars/eullerg/Front-end-Quiz)
   ![GitHub forks](https://img.shields.io/github/forks/eullerg/Front-end-Quiz)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/eullerstm)](https://twitter.com/intent/eullerstm)
+  ![Mastodon Follow](https://img.shields.io/mastodon/follow/110913095554798781)
  
   <br />
   <br />
@@ -27,16 +27,16 @@
 
 You can <strong> access the source code of the initial project </strong> or <strong> download it </strong>
 
-### 🛠️ Open & Run Moviie
+### 🛠️ Open & Run Quiz
 
-To run the **Quiz** locally, just download the repository and open the file <strong> index.html </strong>
+To run the **Quiz** just open the link **link** or download the repository and open the file <strong> index.html </strong>
 
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/og.euller) or
-E-mail:euller_germano1@hotmail.com
-
+If you want to contact with me you can reach me at 
+:mailbox_with_mail: E-mail: euller_germano1@hotmail.com	:mailbox_with_mail: 	
+or you can also contact me at [Instagram](https://www.instagram.com/og.euller)
 
 
 ### Author
