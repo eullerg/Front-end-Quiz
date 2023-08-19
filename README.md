@@ -34,8 +34,10 @@ To run the **Quiz** just open the link **link** or download the repository and o
 
 ### Contact
 
-If you want to contact with me you can reach me at 
-:mailbox_with_mail: E-mail: euller_germano1@hotmail.com	:mailbox_with_mail: 	
+If you want to contact me you can reach at: 
+
+:mailbox_with_mail: E-mail :euller_germano1@hotmail.com	:mailbox_with_mail: 	
+
 or you can also contact me at [Instagram](https://www.instagram.com/og.euller)
 
 
